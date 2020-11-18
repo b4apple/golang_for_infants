@@ -1,7 +1,7 @@
 package main
 
-import "./intermediate"
+//import the package which contains the code you want to run
 
 func main() {
-	intermediate.Iter1()
+	//write the testing funtion here to run
 }
