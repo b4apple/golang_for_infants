@@ -2,7 +2,7 @@ package intermediate
 
 import "fmt"
 
-//Iter1 is cool
+//Iter1 return the factorial of 5
 func Iter1() {
 	var factorial int64 = 1
 	for i := 1; i <= 5; i++ {
